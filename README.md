@@ -1,3 +1,7 @@
+https://beyza-can.github.io/rick-and-morty-react/
+
+
+You can also visit the other website i made with rick and morty api.Heres the link: https://beyza-can.github.io/rick_mort_html.github.io/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
